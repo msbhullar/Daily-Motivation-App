@@ -1,0 +1,6 @@
+{
+  "name": "Rise & Shine - Daily Motivation",
+  "description": "AI-powered daily motivation app with custom quote generation, speech narration, streak tracking, and zen journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
